@@ -3,9 +3,7 @@
 *A marketplace connecting EV drivers with private charging hosts.*  
 
 [![WebSite](https://echargestations.infinityfreeapp.com/)   
-[![WordPress](https://img.shields.io/badge/Powered%20by-WordPress-21759B)](https://wordpress.org/)  
-
-![E-Charge Stations Preview](<img width="960" alt="image" src="https://github.com/user-attachments/assets/6af703a5-94fc-4bc4-9fbf-636b18565df7" />
+[E-Charge Stations Preview] ->(<img width="960" alt="image" src="https://github.com/user-attachments/assets/6af703a5-94fc-4bc4-9fbf-636b18565df7" />
 
 ---
 
