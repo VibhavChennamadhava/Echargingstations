@@ -2,7 +2,7 @@
 # 🔌 E-Charge Stations  
 *A marketplace connecting EV drivers with private charging hosts.*  
 
-[![WebSite](https://echargestations.infinityfreeapp.com/)   
+[Visit Live Website](https://echargestations.infinityfreeapp.com/)
 [E-Charge Stations Preview] ->(<img width="960" alt="image" src="https://github.com/user-attachments/assets/6af703a5-94fc-4bc4-9fbf-636b18565df7" />
 
 ---
